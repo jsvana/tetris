@@ -1,3 +1,6 @@
 [submodule "DefinitelyTyped"]
 	path = DefinitelyTyped
 	url = https://github.com/borisyankov/DefinitelyTyped
+[submodule "ts/DefinitelyTyped"]
+	path = ts/DefinitelyTyped
+	url = https://github.com/borisyankov/DefinitelyTyped
